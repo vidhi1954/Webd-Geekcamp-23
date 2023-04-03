@@ -35,7 +35,7 @@ where `name` is your name,
 `roll number` is your official IIITA roll number,
 `repo link` is the link of repository
 
-For example, see `Manas2403.json`(where sggts04 is GitHub username).
+For example, see `Manas2403.json`(where Manas2403 is GitHub username).
 
 ## How to submit?
 
